@@ -1,3 +1,8 @@
+"""Sortiere Studenten nach Noten.
+
+Aufgabenstellung: https://wiki.bzz.ch/modul/m323/learningunits/lu04/aufgaben/sorting2
+"""
+
 def sort_students_by_grade(students):
     """
     Nutze die `sorted()` Funktion, um die Studenten basierend auf ihren Noten zu sortieren.
