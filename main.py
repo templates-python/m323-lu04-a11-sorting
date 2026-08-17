@@ -17,12 +17,12 @@ def sort_students_by_grade(students):
 
 
 if __name__ == '__main__':
-    students = [
+    demo_students = [
         ('Alice', 4.0),
         ('Bob', 3.5),
         ('Charlie', 4.25),
         ('David', 5.5),
         ('Manuel', 3.75),
     ]
-    sorted_students = sort_students_by_grade(students)
+    sorted_students = sort_students_by_grade(demo_students)
     print(sorted_students)
